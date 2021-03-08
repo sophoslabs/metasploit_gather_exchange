@@ -20,7 +20,7 @@ Query the local Exchange server and retrieve basic information about each of the
 #### EXPORT
 Export and download a chosen mailbox in the form of a .PST file, with support for an optional filter keyword.
 Options:
-* MAILBOX: Display name or e-mail address
+* MAILBOX: Required, Display name or e-mail address of mailbox to export
 * FILTER: Optional, can be used to refine the exported results (e.g. only export items received on a particular date)
    
     For a list of valid filters, see https://docs.microsoft.com/en-us/exchange/filterable-properties-for-the-contentfilter-parameter
