@@ -12,6 +12,7 @@ Two actions are supported:
 
 ## LIST (default action)
 Query the local Exchange server and retrieve basic information about the mailboxes it hosts: for each mailbox, print the display name, address, folders, and number of e-mails.
+
 ![list](usage2.png)
 
 ## EXPORT
