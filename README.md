@@ -22,7 +22,7 @@ Export and download a chosen mailbox in the form of a .PST file, with support fo
 Options:
 * MAILBOX: Display name or e-mail address
 * FILTER: Optional, can be used to refine the exported results (e.g. only export items received on a particular date)
-For a list of valid filters, see https://docs.microsoft.com/en-us/exchange/filterable-properties-for-the-contentfilter-parameter
+   For a list of valid filters, see https://docs.microsoft.com/en-us/exchange/filterable-properties-for-the-contentfilter-parameter
 
 ![export](usage3.png)
 
