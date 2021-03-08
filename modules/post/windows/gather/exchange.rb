@@ -20,7 +20,7 @@ class MetasploitModule < Msf::Post
         LIST (default action): List basic information about all Exchange servers and mailboxes hosted on the target.
         EXPORT: Export and download a chosen mailbox in the form of a .PST file, with support for an optional filter keyword.
 
-        For list of valid filters, see https://docs.microsoft.com/en-us/exchange/filterable-properties-for-the-contentfilter-parameter
+        For a list of valid filters, see https://docs.microsoft.com/en-us/exchange/filterable-properties-for-the-contentfilter-parameter
 
         The executing user has to be assigned to the "Organization Management" role group for the module to successfully run.
 
