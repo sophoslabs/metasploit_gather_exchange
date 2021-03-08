@@ -10,12 +10,12 @@ It utilizes the "Exchange Management Shell", a collection of PowerShell scripts 
 
 Two actions are supported:
 
-## LIST (default action)
+#### LIST (default action)
 Query the local Exchange server and retrieve basic information about the mailboxes it hosts: for each mailbox, print the display name, address, folders, and number of e-mails.
 
 ![list](usage2.png)
 
-## EXPORT
+#### EXPORT
 Export and download a chosen mailbox in the form of a .PST file, with support for an optional filter keyword.
 Options:
 * MAILBOX: Display name or e-mail address
