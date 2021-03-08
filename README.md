@@ -2,7 +2,9 @@ Metasploit Post-Exploitation Gather module for Exchange Server
 --------------------------------------------------------------
 
 A Metasploit framework module for gathering information from an on-premise Exchange Server.
+
 The module gathers information from an Exchange Server running on a compromised target over a Meterpreter session.
+
 It utilizes the "Exchange Management Shell", a collection of PowerShell scripts installed along with Exchange Server.
 
 ## Usage
