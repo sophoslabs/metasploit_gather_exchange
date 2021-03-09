@@ -30,7 +30,7 @@ class MetasploitModule < Msf::Post
       'Author'        => [ 'SophosLabs Offensive Security team' ],
       'References'    => [
         [ 'URL', 'https://github.com/sophoslabs/metasploit_gather_exchange' ],
-        [ 'URL', '<sophoslabs blog TODO>' ],
+        [ 'URL', 'https://news.sophos.com/en-us/2021/03/08/sophoslabs-offensive-security-releases-post-exploitation-tool-for-exchange' ],
       ],
       'Platform'      => [ 'win' ],
       'Arch'          => [ ARCH_X86, ARCH_X64 ],
