@@ -7,6 +7,8 @@ The module gathers information from an Exchange Server, running on a compromised
 
 It uses the "Exchange Management Shell," a collection of PowerShell scripts installed along with Exchange Server.
 
+See article on the Sophos website for more details: https://news.sophos.com/en-us/2021/03/09/sophoslabs-offensive-security-releases-post-exploitation-tool-for-exchange/
+
 ## Usage
 ![usage](usage1.png)
 
