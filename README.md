@@ -1,11 +1,11 @@
 Metasploit Post-Exploitation Gather module for Exchange Server
 --------------------------------------------------------------
 
-A Metasploit framework module for gathering information from an on-premise Exchange Server.
+A Metasploit framework module for gathering information from an Exchange Server.
 
-The module gathers information from an Exchange Server running on a compromised target over a Meterpreter session.
+The module gathers information from an Exchange Server, running on a compromised target, over a Meterpreter session.
 
-It utilizes the "Exchange Management Shell", a collection of PowerShell scripts installed along with Exchange Server.
+It uses the "Exchange Management Shell," a collection of PowerShell scripts installed along with Exchange Server.
 
 ## Usage
 ![usage](usage1.png)
@@ -34,4 +34,4 @@ The executing user has to be assigned to the "Organization Management" role grou
 
 The module might not function correctly if Windows Defender is enabled and detects the PowerShell script as malicious.
 
-Tested on Exchange Server 2010 on Windows Server 2012 R2 and Exchange Server 2016 on Windows Server 2016.
+Tested on on-premises installations of Exchange Server 2010 on Windows Server 2012 R2 and Exchange Server 2016 on Windows Server 2016. It has not been tested in cloud-hosted installations of Exchange.
