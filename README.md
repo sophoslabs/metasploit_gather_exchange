@@ -9,6 +9,8 @@ It uses the "Exchange Management Shell," a collection of PowerShell scripts inst
 
 See article on the Sophos website for more details: https://news.sophos.com/en-us/2021/03/09/sophoslabs-offensive-security-releases-post-exploitation-tool-for-exchange/
 
+**The module has been merged into Metasploit Framework, you can now use it directly from an up-to-date Metasploit installation.**
+
 ## Usage
 ![usage](usage1.png)
 
